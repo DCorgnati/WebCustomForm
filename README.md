@@ -1,2 +1,11 @@
 # WebCustomForm
-App web che visualizza tabelle in base a configurazione json
+
+Front-end React application consuming a FastAPI backend.
+
+## Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
